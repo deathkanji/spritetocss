@@ -1,0 +1,88 @@
+		label,h4,.btn{
+			color:#fff;
+			font-weight: 200;
+		}
+
+		.container{
+		padding-top:20px;
+		}
+
+		.form-group{
+			margin-bottom:0px;
+		}
+
+		.form-group input{
+			margin-bottom:5px;
+		}
+
+		.btn{
+			padding:4px 12px;
+		}
+
+		.form-control{
+			height:30px;
+		}
+		.show-grid{
+			margin-bottom:10px;
+		}
+
+		.panel-default{
+			margin-top:5px;
+		}
+
+		.col-md-4{
+			background: #272822;
+			padding:10px;
+			/*border-radius: 5px;*/
+			margin-bottom:10px;
+		}
+
+		.col-md-5,.col-md-3{
+			border-left:1px solid #eee;
+		}
+
+		.control-label {
+		  padding-top: 7px;
+		  font-size: 12px;
+		}
+
+		.fileUpload {
+		    position: relative;
+		    overflow: hidden;
+		    margin: 0 2px;
+		}
+
+		.fileUpload input.upload {
+		    position: absolute;
+		    top: 0;
+		    right: 0;
+		    margin: 0;
+		    padding: 0;
+		    font-size: 20px;
+		    cursor: pointer;
+		    opacity: 0;
+		    filter: alpha(opacity=0);
+		}
+
+		#uploadFile {
+		  line-height: 30px;
+		  padding:0px 5px;
+		}
+
+		#editor {
+		        margin: 0;
+		        position: relative;
+		        top: 0px;
+		        bottom: 0;
+		        left: 0px;
+		        right: 0;
+		        height:400px;
+		    }
+
+		.jcrop-keymgr{
+			left:-1000px !important;
+		}
+
+div.tooltip-inner {
+    width: 350px;
+}
